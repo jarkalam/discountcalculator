@@ -1,0 +1,9 @@
+A,Apparel,00%,NIL
+B,Men's Wear,00%,A
+C,Women's Wear,50%,A
+D,Shirts,00%,B
+E,Trousers,00%,B
+F,Casuals,30%,E
+G,Jeans,20%,E
+H,Dresses,00%,C
+I,Footwear,00%,C

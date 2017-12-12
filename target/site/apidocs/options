@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/Rajkamal/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'E:/Java/src/DiscountCalculatorApp/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2017. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'E:/Java/src/DiscountCalculatorApp/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'DiscountCalculatorApp 1.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'E:/Java/src/DiscountCalculatorApp/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'DiscountCalculatorApp 1.0 API'
